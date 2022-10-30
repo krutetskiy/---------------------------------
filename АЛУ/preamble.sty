@@ -1,0 +1,21 @@
+\ProvidesPackage{preamble}
+
+% Зависимости
+\usepackage[english,russian]{babel} %Подключение русского и английского языка
+\usepackage[utf8]{inputenc} %Изменение кодировки
+\usepackage{amsmath} %Математические функции
+\usepackage{amsfonts} %Математические шрифты
+\usepackage{alltt}
+\usepackage{geometry} %Настройка макета страницы
+\usepackage{array} %Для расширенной настройки таблиц
+\usepackage{graphicx} %Вставка изображений
+\usepackage{indentfirst} %Отступ первого абзаца
+
+% \usepackage{showframe} %Отладка границ фремов
+
+% Настройка верстки
+\geometry{verbose,a4paper,tmargin=2cm,lmargin=1.5cm,bmargin=2cm,rmargin=2cm}
+\graphicspath{ {./images/} }
+
+% Кастомные команды
+\newcommand{\mathleft}{\@fleqntrue\@mathmargin0pt}
