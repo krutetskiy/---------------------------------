@@ -1,0 +1,6 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Синтез недвоичного вычитающего счетчика}{2}{}%
+\contentsline {subsection}{Построение аналитической модели}{2}{}%
+\contentsline {subsection}{Построение счетчика в Multisim}{4}{}%
+\contentsline {section}{К155ИЕ6}{5}{}%
+\contentsline {subsection}{Построение деманстрационной модели К155ИЕ6}{5}{}%
