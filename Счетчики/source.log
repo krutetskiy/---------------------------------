@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  6 NOV 2022 19:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  6 NOV 2022 20:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -419,7 +419,7 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 6.
  (C:\Users\Semoyn\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-) (chapter-1.aux) (chapter-2.aux))
+) (chapter-1.aux) (chapter-2.aux) (chapter-3.aux) (chapter-4.aux))
 \openout1 = `source.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -596,19 +596,39 @@ File: images/image-12.png Graphic file (type png)
 <use images/image-12.png>
 Package pdftex.def Info: images/image-12.png  used on input line 77.
 (pdftex.def)             Requested size: 214.5532pt x 159.89859pt.
-) [8 <./images/image-11.png> <./images/image-12.png>] (source.aux (title.aux) (chapter-1.aux) (chapter-2.aux)) ) 
+) [8 <./images/image-11.png> <./images/image-12.png>]
+\openout2 = `chapter-3.aux'.
+
+ (chapter-3.tex
+<images/image-13.png, id=70, 502.87875pt x 449.42906pt>
+File: images/image-13.png Graphic file (type png)
+<use images/image-13.png>
+Package pdftex.def Info: images/image-13.png  used on input line 24.
+(pdftex.def)             Requested size: 402.30354pt x 359.54372pt.
+) [9
+
+
+
+ <./images/image-13.png>]
+\openout2 = `chapter-4.aux'.
+
+ (chapter-4.tex) [10
+
+
+
+] (source.aux (title.aux) (chapter-1.aux) (chapter-2.aux) (chapter-3.aux) (chapter-4.aux)) ) 
 Here is how much of TeX's memory you used:
- 6079 strings out of 475380
- 104542 string characters out of 2776300
- 533467 words of memory out of 3000000
- 27346 multiletter control sequences out of 15000+600000
- 482370 words of font info for 57 fonts, out of 8000000 for 9000
+ 6154 strings out of 475380
+ 107188 string characters out of 2776300
+ 533075 words of memory out of 3000000
+ 27404 multiletter control sequences out of 15000+600000
+ 485141 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,12n,77p,446b,356s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on source.pdf (9 pages, 293057 bytes).
+ <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on source.pdf (11 pages, 331494 bytes).
 PDF statistics:
- 353 PDF objects out of 1000 (max. 8388607)
+ 378 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

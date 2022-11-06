@@ -5,3 +5,6 @@
 \contentsline {section}{К155ИЕ6}{5}{}%
 \contentsline {subsection}{Построение деманстрационной модели К155ИЕ6}{5}{}%
 \contentsline {subsection}{Исследование счетчика при суммирование в динамике}{8}{}%
+\contentsline {section}{К155ИЕ6}{9}{}%
+\contentsline {subsection}{Построение счетчика}{9}{}%
+\contentsline {section}{Вывод}{10}{}%
