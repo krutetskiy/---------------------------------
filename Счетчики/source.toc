@@ -4,3 +4,4 @@
 \contentsline {subsection}{Построение счетчика в Multisim}{4}{}%
 \contentsline {section}{К155ИЕ6}{5}{}%
 \contentsline {subsection}{Построение деманстрационной модели К155ИЕ6}{5}{}%
+\contentsline {subsection}{Исследование счетчика при суммирование в динамике}{8}{}%
