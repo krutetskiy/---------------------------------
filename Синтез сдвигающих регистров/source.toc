@@ -1,0 +1,6 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Синтез 4х разрядного сдвигающего регистра}{2}{}%
+\contentsline {subsection}{Аналитическая модель}{2}{}%
+\contentsline {subsection}{Построение модели в Multisim}{5}{}%
+\contentsline {section}{ИС К155ИР13}{6}{}%
+\contentsline {subsection}{Демонстрационная модель}{6}{}%
