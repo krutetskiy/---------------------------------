@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  14 NOV 2022 23:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.6)  15 NOV 2022 15:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -411,10 +411,21 @@ Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count276
 \c@continuedfloat=\count277
+) (C:\Users\Semoyn\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count278
+\c@subtable=\count279
+) (C:\Users\Semoyn\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count280
+\float@exts=\toks26
+\float@box=\box55
+\@float@everytoks=\toks27
+\@floatcapt=\box56
 )) (C:\Users\Semoyn\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count278
-\l__pdf_internal_box=\box55
+\l__color_backend_stack_int=\count281
+\l__pdf_internal_box=\box57
 ) (source.aux (title.aux)
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 6.
  (C:\Users\Semoyn\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
@@ -476,17 +487,17 @@ LaTeX Info: Redefining \th on input line 4.
 
 (C:\Users\Semoyn\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count279
+\scratchcounter=\count282
 \scratchdimen=\dimen171
-\scratchbox=\box56
-\nofMPsegments=\count280
-\nofMParguments=\count281
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count282
+\scratchbox=\box58
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count285
 \MPscratchDim=\dimen172
-\MPnumerator=\count283
-\makeMPintoPDFobject=\count284
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks29
 ) (C:\Users\Semoyn\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -494,6 +505,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \openout2 = `title.aux'.
 
@@ -525,38 +537,147 @@ File: images/image-1.png Graphic file (type png)
 <use images/image-1.png>
 Package pdftex.def Info: images/image-1.png  used on input line 256.
 (pdftex.def)             Requested size: 457.32936pt x 167.34865pt.
-) [5 <./images/image-1.png>]
+<images/image-22.png, id=29, 631.60968pt x 109.1578pt>
+File: images/image-22.png Graphic file (type png)
+<use images/image-22.png>
+Package pdftex.def Info: images/image-22.png  used on input line 268.
+(pdftex.def)             Requested size: 315.80406pt x 54.57877pt.
+<images/image-23.png, id=30, 622.57594pt x 120.45pt>
+File: images/image-23.png Graphic file (type png)
+<use images/image-23.png>
+Package pdftex.def Info: images/image-23.png  used on input line 269.
+(pdftex.def)             Requested size: 311.2872pt x 60.22484pt.
+<images/image-24.png, id=31, 629.35126pt x 117.43875pt>
+File: images/image-24.png Graphic file (type png)
+<use images/image-24.png>
+Package pdftex.def Info: images/image-24.png  used on input line 270.
+(pdftex.def)             Requested size: 314.67485pt x 58.71922pt.
+<images/image-25.png, id=32, 616.55344pt x 115.93312pt>
+File: images/image-25.png Graphic file (type png)
+<use images/image-25.png>
+Package pdftex.def Info: images/image-25.png  used on input line 271.
+(pdftex.def)             Requested size: 308.27596pt x 57.96642pt.
+) [5 <./images/image-1.png> <./images/image-22.png> <./images/image-23.png> <./images/image-24.png> <./images/image-25.png>]
 \openout2 = `chapter-2.aux'.
 
  (chapter-2.tex
-<images/image-2.png, id=33, 445.665pt x 340.27126pt>
+<images/image-2.png, id=42, 619.56468pt x 419.31656pt>
 File: images/image-2.png Graphic file (type png)
 <use images/image-2.png>
 Package pdftex.def Info: images/image-2.png  used on input line 13.
-(pdftex.def)             Requested size: 401.09479pt x 306.24129pt.
+(pdftex.def)             Requested size: 371.74167pt x 251.59186pt.
+<images/image-4.png, id=43, 251.43938pt x 234.8775pt>
+File: images/image-4.png Graphic file (type png)
+<use images/image-4.png>
+Package pdftex.def Info: images/image-4.png  used on input line 27.
+(pdftex.def)             Requested size: 150.86478pt x 140.92758pt.
+<images/image-5.png, id=44, 255.20343pt x 237.13594pt>
+File: images/image-5.png Graphic file (type png)
+<use images/image-5.png>
+Package pdftex.def Info: images/image-5.png  used on input line 29.
+(pdftex.def)             Requested size: 153.12323pt x 142.28265pt.
  [6
 
 
 
- <./images/image-2.png>]
-<images/image-3.png, id=39, 475.02469pt x 341.02406pt>
+ <./images/image-2.png> <./images/image-4.png> <./images/image-5.png>]
+<images/image-7.png, id=52, 300.3722pt x 246.1697pt>
+File: images/image-7.png Graphic file (type png)
+<use images/image-7.png>
+Package pdftex.def Info: images/image-7.png  used on input line 39.
+(pdftex.def)             Requested size: 180.22469pt x 147.70294pt.
+<images/image-6.png, id=53, 293.59688pt x 237.88875pt>
+File: images/image-6.png Graphic file (type png)
+<use images/image-6.png>
+Package pdftex.def Info: images/image-6.png  used on input line 41.
+(pdftex.def)             Requested size: 176.15947pt x 142.73433pt.
+<images/image-8.png, id=54, 296.60812pt x 246.1697pt>
+File: images/image-8.png Graphic file (type png)
+<use images/image-8.png>
+Package pdftex.def Info: images/image-8.png  used on input line 50.
+(pdftex.def)             Requested size: 177.96623pt x 147.70294pt.
+<images/image-9.png, id=55, 295.85532pt x 250.68657pt>
+File: images/image-9.png Graphic file (type png)
+<use images/image-9.png>
+Package pdftex.def Info: images/image-9.png  used on input line 52.
+(pdftex.def)             Requested size: 177.51454pt x 150.41309pt.
+ [7 <./images/image-7.png> <./images/image-6.png> <./images/image-8.png> <./images/image-9.png>]
+<images/image-10.png, id=63, 292.09125pt x 239.39438pt>
+File: images/image-10.png Graphic file (type png)
+<use images/image-10.png>
+Package pdftex.def Info: images/image-10.png  used on input line 66.
+(pdftex.def)             Requested size: 204.46246pt x 167.5749pt.
+<images/image-11.png, id=64, 296.60812pt x 245.41687pt>
+File: images/image-11.png Graphic file (type png)
+<use images/image-11.png>
+Package pdftex.def Info: images/image-11.png  used on input line 68.
+(pdftex.def)             Requested size: 207.62427pt x 171.79062pt.
+File: images/image-11.png Graphic file (type png)
+<use images/image-11.png>
+Package pdftex.def Info: images/image-11.png  used on input line 70.
+(pdftex.def)             Requested size: 207.62427pt x 171.79062pt.
+<images/image-12.png, id=65, 294.34969pt x 251.43938pt>
+File: images/image-12.png Graphic file (type png)
+<use images/image-12.png>
+Package pdftex.def Info: images/image-12.png  used on input line 72.
+(pdftex.def)             Requested size: 206.04337pt x 176.00635pt.
+ [8 <./images/image-10.png> <./images/image-11.png> <./images/image-12.png>]
+File: images/image-10.png Graphic file (type png)
+<use images/image-10.png>
+Package pdftex.def Info: images/image-10.png  used on input line 83.
+(pdftex.def)             Requested size: 204.46246pt x 167.5749pt.
+File: images/image-11.png Graphic file (type png)
+<use images/image-11.png>
+Package pdftex.def Info: images/image-11.png  used on input line 85.
+(pdftex.def)             Requested size: 207.62427pt x 171.79062pt.
+File: images/image-11.png Graphic file (type png)
+<use images/image-11.png>
+Package pdftex.def Info: images/image-11.png  used on input line 87.
+(pdftex.def)             Requested size: 207.62427pt x 171.79062pt.
+File: images/image-12.png Graphic file (type png)
+<use images/image-12.png>
+Package pdftex.def Info: images/image-12.png  used on input line 89.
+(pdftex.def)             Requested size: 206.04337pt x 176.00635pt.
+ [9]
+<images/image-3.png, id=75, 646.66594pt x 431.36156pt>
 File: images/image-3.png Graphic file (type png)
 <use images/image-3.png>
-Package pdftex.def Info: images/image-3.png  used on input line 28.
-(pdftex.def)             Requested size: 427.51825pt x 306.91881pt.
-) [7 <./images/image-3.png>] (source.aux (title.aux) (chapter-1.aux) (chapter-2.aux)) ) 
+Package pdftex.def Info: images/image-3.png  used on input line 107.
+(pdftex.def)             Requested size: 452.66307pt x 301.95103pt.
+<images/image-18.png, id=76, 307.90031pt x 263.48438pt>
+File: images/image-18.png Graphic file (type png)
+<use images/image-18.png>
+Package pdftex.def Info: images/image-18.png  used on input line 117.
+(pdftex.def)             Requested size: 184.74161pt x 158.09183pt.
+<images/image-19.png, id=77, 306.39468pt x 260.47313pt>
+File: images/image-19.png Graphic file (type png)
+<use images/image-19.png>
+Package pdftex.def Info: images/image-19.png  used on input line 119.
+(pdftex.def)             Requested size: 183.83823pt x 156.28508pt.
+ [10 <./images/image-3.png> <./images/image-18.png> <./images/image-19.png>]
+<images/image-20.png, id=84, 304.13625pt x 255.95625pt>
+File: images/image-20.png Graphic file (type png)
+<use images/image-20.png>
+Package pdftex.def Info: images/image-20.png  used on input line 129.
+(pdftex.def)             Requested size: 182.48315pt x 153.57492pt.
+<images/image-21.png, id=85, 302.63063pt x 260.47313pt>
+File: images/image-21.png Graphic file (type png)
+<use images/image-21.png>
+Package pdftex.def Info: images/image-21.png  used on input line 131.
+(pdftex.def)             Requested size: 181.57977pt x 156.28508pt.
+) [11 <./images/image-20.png> <./images/image-21.png>] (source.aux (title.aux) (chapter-1.aux) (chapter-2.aux)) ) 
 Here is how much of TeX's memory you used:
- 5993 strings out of 475380
- 103554 string characters out of 2776300
- 508379 words of memory out of 3000000
- 27274 multiletter control sequences out of 15000+600000
- 479557 words of font info for 53 fonts, out of 8000000 for 9000
+ 6289 strings out of 475380
+ 109510 string characters out of 2776300
+ 511552 words of memory out of 3000000
+ 27546 multiletter control sequences out of 15000+600000
+ 480365 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,12n,77p,467b,326s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on source.pdf (8 pages, 160523 bytes).
+ 70i,12n,77p,472b,487s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1095.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Semoyn\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lacc1200.pk><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Semoyn/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on source.pdf (12 pages, 304203 bytes).
 PDF statistics:
- 275 PDF objects out of 1000 (max. 8388607)
+ 369 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
